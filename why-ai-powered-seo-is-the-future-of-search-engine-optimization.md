@@ -1,5 +1,5 @@
 # Why AI-Powered SEO is the Future of Search Engine Optimization
-
+![Digital Marketing](digital-marketing.jpg)
 Search Engine Optimization (SEO) has always been one of the most effective ways to attract organic traffic to a website. However, as search engines become more advanced, SEO strategies are also evolving. Artificial Intelligence (AI) is now playing a major role in how websites are optimized, how content is created, and how marketers analyze search trends.
 
 Instead of relying only on manual research, businesses are using AI-powered tools to make faster and more informed SEO decisions. For aspiring digital marketers, understanding AI-powered SEO is becoming an essential skill for building a successful career.
